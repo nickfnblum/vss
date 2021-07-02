@@ -50,7 +50,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <spring.cloud.version>Dalston.SR3</spring.cloud.version>
-        <lombok.version>1.16.8</lombok.version>
+        <lombok.version>1.18.20</lombok.version>
         <docker.maven.version>0.4.3</docker.maven.version>
         <modelmapper.version>1.0.0</modelmapper.version>
         <maven-enforcer-plugin.version>3.0.0-M1</maven-enforcer-plugin.version>
